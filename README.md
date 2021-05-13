@@ -1,2 +1,2 @@
 # Textmining_caseOLAP
-All codes were generated for textmining project by Danielle Lei. 
+All codes in these files were generated for textmining project by Danielle Lei. 
